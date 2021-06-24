@@ -1,1 +1,3 @@
-Documento para el curso de git y GitHub de platzi
+Documento para el curso de git de platzi,
+
+Este man de Freddy esplica bien el curso de git
